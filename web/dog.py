@@ -257,7 +257,7 @@ with gr.Blocks(css=custom_css, title="PawClinic", js=js_func) as demo:
     # ---------- LOGO & HEADER ----------
     gr.HTML("""
     <div style="display: flex; align-items: center; justify-content: center; padding: 20px;">
-        <img src="https://media.discordapp.net/attachments/1131626340706173001/1348854942542331985/logo.png?ex=67d0fa8e&is=67cfa90e&hm=90d9ecd8efff5554ac5fa5b400de89a9f9410136fa7f5b3d582d1efd0cae3ce1&=&format=webp&quality=lossless&width=1140&height=988" 
+        <img src="https://i.imgur.com/vU6RIHl.png" 
              alt="Logo" style="width: 80px; margin-right: 10px;">
         <h1 style="font-family: sans-serif; color: #5E4744; font-size: 60px; margin: 0;">
             <span style="color: #F4A7A3;">P</span><span style="color: #5E4744;">aw</span>

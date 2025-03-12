@@ -6,6 +6,5 @@ app/__pyache__
 send_image.py
 __pycache__
 *.json
-*.ipynb
 test.py
 dog-animal-skin-disease-1208313049-6c58143883d2477a920ca1ed1a7bc1e6.jpg
